@@ -124,11 +124,3 @@ header .nav-links a:hover {
 #contact li a:hover {
     color: #00bcd4;
 }
-
-/* Footer */
-footer {
-    background: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-}
